@@ -1,2 +1,2 @@
 # stopmilitaryai
-A warning about the use of AI in weapons systems
+An AI warns: AI must be banned from weapons systems
